@@ -1,7 +1,0 @@
-baseurl: /<t1>
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      index: endless.html
