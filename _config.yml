@@ -1,3 +1,4 @@
+baseurl: /<t1>
 defaults:
   -
     scope:
