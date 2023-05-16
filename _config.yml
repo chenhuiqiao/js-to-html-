@@ -3,4 +3,4 @@ defaults:
     scope:
       path: ""
     values:
-      index: .html
+      index: endless.html
